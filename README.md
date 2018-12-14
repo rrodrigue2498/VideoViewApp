@@ -1,4 +1,4 @@
-# VideoViewApp# Adding a High Quality Video to a Mobile Application
+# Adding a High Quality Video to a Mobile Application
 
 
 
