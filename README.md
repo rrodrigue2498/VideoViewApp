@@ -46,8 +46,7 @@
 ​	Now, click on **File**, then on **New**, and finally on **New Project**. It should look something like this:
 
 
-
-![New File](/Users/familiamaldonado/Desktop/New File.png)
+![Start Project] (https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/New%20File.png)
 
 
 
