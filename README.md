@@ -56,7 +56,7 @@
 
 
 
-![Screen Shot 2018-12-14 at 4.01.25 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 4.01.25 PM.png)
+![Activity Layout](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%204.01.25%20PM.png)
 
 
 
@@ -66,7 +66,7 @@
 
 ​	We need to work on the *activity_layout.xml*. This file is found under **app**, then the **java** folder, and then under the **res** (resource) folder. The original code and screen design should look something like this:
 
-![Screen Shot 2018-12-14 at 4.11.33 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 4.11.33 PM.png)
+![Layout Preview](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%204.11.33%20PM.png)
 
 ```java
 <?xml version="1.0" encoding="utf-8"?>
@@ -128,7 +128,7 @@
 
 
 
-![Screen Shot 2018-12-14 at 4.19.05 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 4.19.05 PM.png)
+![Finalized App Layout](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%204.19.05%20PM.png)
 
 
 
@@ -245,7 +245,7 @@ ______
 
 ​	In order to implement the video file, it is important that you create what is called a **Raw Resource Folder**. This is a folder that will be within the resource folder (res) in your application, and will hold the various files to be used on the mobile application. A more recent version of Android Studio will allow you to create the folder as soon as you right-click on the res folder, but older versions simply require you to create a regular resource folder, and then name it "raw". The following picture shows how to go about creating a raw resource folder:
 
-![Screen Shot 2018-12-14 at 4.52.37 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 4.52.37 PM.png)
+![Raw Resource Folder](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%204.52.37%20PM.png)
 
 
 
@@ -352,15 +352,15 @@ public void videoplay (View v)
 
 ​	Here are some pictures to help you visualize what is there to do:
 
-![Screen Shot 2018-12-14 at 5.26.42 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 5.26.42 PM.png)
+![Genymotion](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%205.26.42%20PM.png)
 
 
 
-![Screen Shot 2018-12-14 at 5.27.45 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 5.27.45 PM.png)
+![Running App](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%205.27.45%20PM.png)
 
 
 
 ​	This is how your application should look like once it successfully runs in Android Studio:
 
-![Screen Shot 2018-12-14 at 5.29.51 PM](/Users/familiamaldonado/Desktop/Screen Shot 2018-12-14 at 5.29.51 PM.png)
+![Final Product](https://github.com/rrodrigue2498/VideoViewApp/blob/master/Blog_Photos/Screen%20Shot%202018-12-14%20at%205.29.51%20PM.png)
 
